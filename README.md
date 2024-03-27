@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAYA-FADLI
+- 👋 Hi, I’m Fadli
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on GitHub
