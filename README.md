@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fadli
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in IT
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: You can reach me on GitHub
