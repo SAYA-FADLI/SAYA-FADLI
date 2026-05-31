@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Hubungi saya
-- LinkedIn: [linkedin.com/in/fadli](https://www.linkedin.com/in/mohammad-fadli-mubarrok-a77407333/)
+- LinkedIn: [linkedin.com/in/mohammad-fadli-mubarrok](https://www.linkedin.com/in/mohammad-fadli-mubarrok-a77407333/)
 - Email: akunnyafadli24@gmail.com
