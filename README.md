@@ -10,7 +10,7 @@
 - Backend: Python, SQL, FastAPI, Groq API.
 - Data Manipulation & Visualization: Pandas, Numpy, Matplotlib, Seaborn.
 - Frontend: HTML, CSS, JS.
-- Version Control & Deployment: Git, Github, Railway.
+- Version Control & Deployment: Git, Github, Vercel, Railway.
 
 ---
 
