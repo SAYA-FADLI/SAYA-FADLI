@@ -1,6 +1,5 @@
 # 👋 Halo, saya Mohammad Fadli Mubarrok
 
-🎯 **Sedang belajar:** Data Analyst 
 📊 **Target:** Data Analyst  
 🚀 **Portofolio terbaru:** [ChatGO: AI Chatbot](https://github.com/digiportfolio/chatgo)
 
